@@ -7,7 +7,7 @@ C# (.NET) Developer
 I am a backend developer on C# and .NET (ASP.NET Core).
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [wix.com](https://alex19840101.wixsite.com/resume/portfolio), [fl.ru](https://www.fl.ru/users/Alex-S32/)
+* 🖥️  See my portfolio at [github.com](https://github.com/alex19840101/PublicPortfolio.cs), [fl.ru](https://www.fl.ru/users/Alex-S32/)
 * 🧠  I'm learning C#, .NET and develop C# programs, services on .NET.
 * 🤝  I'm open to collaborating on C# projects as backend developer.
 
