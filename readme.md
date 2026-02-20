@@ -28,10 +28,10 @@ src="https://img.shields.io/github/followers/alex19840101?logo=github&style=for-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
 #### Learning MS SQL Server, Kafka, RabbitMQ, gRPC
-<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/File:Microsoft_SQL_Server_2025_icon.svg" width="36" height="36" alt="MS SQL Server" /></a>
+<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" width="36" height="36" alt="MS SQL Server" /></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/120px-Apache_Kafka_logo.svg.png" width="36" height="36" alt="Kafka" /></a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.rabbitmq.com/img/rabbitmq-logo-by-tanzu.svg" width="36" height="36" alt="RabbitMQ" /></a>
-<a href="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="gRPC" /></a>
+<a href="https://github.com/grpc" target="_blank" rel="noreferrer"><img src="ttps://avatars.githubusercontent.com/u/7802525?s=200&v=4" width="36" height="36" alt="gRPC" /></a>
 
 #### Learning Docker, Linux
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
