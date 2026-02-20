@@ -27,10 +27,15 @@ src="https://img.shields.io/github/followers/alex19840101?logo=github&style=for-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
+#### Learning MS SQL Server, Kafka, RabbitMQ, gRPC
+<a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/File:Microsoft_SQL_Server_2025_icon.svg" width="36" height="36" alt="MS SQL Server" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/120px-Apache_Kafka_logo.svg.png" width="36" height="36" alt="Kafka" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.rabbitmq.com/img/rabbitmq-logo-by-tanzu.svg" width="36" height="36" alt="RabbitMQ" /></a>
+<a href="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="gRPC" /></a>
+
 #### Learning Docker, Linux
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-
 
 #### Web stack to learn:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
