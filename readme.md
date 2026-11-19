@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/alex19840101?logo=github&style=for-
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux 🐧" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/120px-Kubernetes_logo_without_workmark.svg.png" width="36" height="36" alt="Kubernetes (K8s)⎈" /></a>
 
-#### 🎓Learning...
+#### 🎓Learning ≡Go (golang)♾️, Java☕, Python🐍
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/250px-Go_Logo_Blue.svg.png" width="36" height="36" alt="≡Go (golang)♾️" /></a>
 <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer"><img src="https://thumb.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/250px-Java_programming_language_logo.svg.png" width="36" height="36" alt="Java☕" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" width="36" height="36" alt="Python🐍" /></a>
